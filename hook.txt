@@ -1,2 +1,0 @@
-This is another file containing some random text. Will use it to 
-test the webhook that should be triggered on merging a PR
